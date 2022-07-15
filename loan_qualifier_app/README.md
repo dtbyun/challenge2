@@ -18,10 +18,12 @@ csv load
 
 ## Installation Guide
 
-
+'''
 pip install fire
-https://pypi.org/project/fire/
 pip install questionary 
+'''
+
+https://pypi.org/project/fire/
 https://pypi.org/project/questionary/
 
 ---

@@ -1,0 +1,50 @@
+  500  python app.py
+  501  ls
+  502  python app.py
+  503  python app.py
+  504  python app.py
+  505  python app.py
+  506  python app.py
+  507  python app.py
+  508  python app.py
+  509  python app.py
+  510  python app.py
+  511  python app.py
+  512  git add loan_qualifier_app
+  513  cd ..
+  514  git add lone_qualifier_app
+  515  git add loan_qualifier_app
+  516  git status
+  517  add .
+  518  git add .
+  519  git commit -m "updated file"
+  520  pwd
+  521  ls
+  522  git status
+  523  git add .
+  524  git status
+  525  ls
+  526  git push
+  527  git checkout
+  528  git status
+  529  pwd
+  530  ls
+  531  git status
+  532  git add .
+  533  git commit -m "readme update"
+  534  git status
+  535  git log
+  536  git push
+  537  pwd
+  538  git status
+  539  ls
+  540  git status
+  541  git add
+  542  git add . 
+  543  git status
+  544  git commit -m "updated file"
+  545  git push
+  546  ls
+  547  git checkout -a "main"
+  548  git checkout -b main
+  549  history 50 > terminal_history.txt
